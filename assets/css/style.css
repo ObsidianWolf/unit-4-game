@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background: url("../images/cave1.jpg")repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow:auto;
+}   
+
+.txt{
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-decoration: underline white;
+}
+
+.sml{
+    color: white;
+}
+
+
+img.crystalImage{
+    background-image: none;
+}
+
+
+#randomNum{
+    border: solid;
+    height: 142.36364px;
+    width: 441px;
+    margin-left: 11px;
+    background-color: black;
+}
+
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: all;
+  }
