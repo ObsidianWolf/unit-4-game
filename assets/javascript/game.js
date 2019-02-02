@@ -101,6 +101,5 @@ console.log("resetFunction");
     // set gameStart = true;
     gameStart = true; 
   }
-
   
 });

@@ -3,7 +3,8 @@
 }
 
 body {
-    background: url("../images/cave1.jpg")repeat;
+    background-image: url("../images/cave1.jpg");
+    background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
     overflow:auto;
 }   
@@ -20,7 +21,7 @@ body {
 }
 
 
-img.crystalImage{
+.crystalImage{
     background-image: none;
 }
 
