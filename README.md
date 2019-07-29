@@ -3,7 +3,7 @@
 ### Here's how the app works:
 
 There will be **four crystals** displayed as buttons on the page.
-![Displays Saphire, Emrald, Ruby, & Citrine Quarts](assets\images\fourCrystals.JPG)
+![Displays Saphire, Emrald, Ruby, & Citrine Quarts](assets/images/fourCrystals.JPG)
 
 The player will be shown a **random number** at the start of the game.
 ![Displays The Random number](assets/images/randomNumber.JPG)
